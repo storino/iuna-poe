@@ -1,4 +1,4 @@
-## Scraping data related to Path of Exile gems
+## Organizing data related to Path of Exile in game gems
 
 Collectin data from Path of Exile API
 This scipt generates a excel file "poe_gems.xlsx" listing all gem with the following caracteristics:
